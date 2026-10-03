@@ -72,7 +72,7 @@ La bitácora permite registrar la fecha, versión, cambio realizado, responsable
 
 ## Proyecto académico
 
-**Estudiante:** Diana Carolina Montilla Aguirre  
+**Estudiante:** Diana Carolina Montilla Aguirre  - Eider Stiven Narvaez
 **Programa:** Ingeniería de Sistemas  
 **Institución:** Corporación Universitaria Remington  
 **Asignatura:** Ingeniería de Software  
